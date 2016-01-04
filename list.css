@@ -1,1 +1,26 @@
-ECHO is on.
+.container-2{
+  margin-top: 50px;
+  padding: 0px 500px;
+  text-align: center;
+}
+.list-border{
+   border: 25px solid purple;
+   padding: 25px 37px;
+}
+.list-input{
+  border: 3px solid purple;
+  height: 35px;
+  margin-bottom: 10px;
+  width: 100%;
+    
+}
+button{
+  padding: 15px 55px;
+}
+hr{
+  border-top: 5px solid purple;
+}
+ul li{
+  list-style-type: none;
+  text-align: left;
+}
